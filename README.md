@@ -1,8 +1,8 @@
-# Amiga OS4 Theme for Omarchy
+# AMIGO Quattro Theme for Omarchy
 
-A theme for [Omarchy](https://omarchy.org/) modeled on AmigaOS 4.0/4.1's
-Wanderer (Ambient) desktop — cream/beige window chrome, blue titlebars, and
-orange as the secondary accent, with Boing Ball wallpapers.
+A theme for [Omarchy](https://omarchy.org/) inspired by AmigaOS 4's Wanderer
+(Ambient) desktop — cream/beige window chrome, blue titlebars, and orange as
+the secondary accent, with Boing Ball wallpapers.
 
 ![Desktop preview](preview.png)
 
@@ -16,8 +16,8 @@ orange as the secondary accent, with Boing Ball wallpapers.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/eddygarcas/omarchy-amiga-os4-theme
-omarchy theme set "Amiga Os4"
+omarchy theme install https://github.com/eddygarcas/omarchy-amigo-quattro-theme
+omarchy theme set "AMIGO Quattro"
 ```
 
 ## Palette
@@ -80,6 +80,6 @@ distribution channel, swap `backgrounds/*.jpg` for original artwork — the
 license on everything else in this repo is unaffected.
 
 AmigaOS and the Boing Ball are trademarks/copyrights of their respective
-owners. This is an unofficial, fan-made color theme and is not affiliated
-with or endorsed by Hyperion Entertainment, Amiga Inc., or any other AmigaOS
-rights holder.
+owners. AMIGO Quattro is an unofficial, fan-made color theme inspired by
+AmigaOS 4 and is not affiliated with or endorsed by Hyperion Entertainment,
+Amiga Inc., or any other AmigaOS rights holder.
