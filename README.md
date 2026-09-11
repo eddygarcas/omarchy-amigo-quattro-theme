@@ -48,6 +48,22 @@ a third-party freeware pack, not original artwork — see
 [`backgrounds/CREDITS.txt`](backgrounds/CREDITS.txt) for the source and the
 creator's license statement, plus a licensing note below.
 
+## Fastfetch logo
+
+`about.txt` is a checkered-disc ASCII logo (generated with Omarchy's own
+`omarchy-transcode-ascii`) evoking the Boing Ball, tinted red via
+`config.jsonc`. Omarchy doesn't wire a theme's `about.txt`/`config.jsonc` up
+automatically on `theme set` — apply it manually if you want it:
+
+```bash
+cp about.txt ~/.config/omarchy/branding/about.txt
+cp config.jsonc ~/.config/fastfetch/config.jsonc
+fastfetch
+```
+
+Revert anytime with `omarchy branding about reset` (and remove/restore your
+own `~/.config/fastfetch/config.jsonc`).
+
 ## License
 
 The theme configuration in this repo (`colors.toml`, `hyprland.lua`,
