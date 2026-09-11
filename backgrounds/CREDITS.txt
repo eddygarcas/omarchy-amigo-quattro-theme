@@ -1,0 +1,25 @@
+Wallpaper credits
+==================
+
+Source: https://amigang.com/software-amigaos-wallpapers/
+Pack:   amigangwallpaper.lha (also mirrored on Aminet:
+        https://aminet.net/package/pix/back/amigangwallpaper)
+
+Creator's stated license: "These are freeware, and you can use them
+any way you like." The same page notes: "the Amiga brand and Boing
+Ball is copyright to their respected owners."
+
+Files used here (renamed, re-encoded, no other changes):
+  1-boing-clouds.jpg      <- cliundsball.jpg
+  2-boing-sunset-sea.jpg  <- 2Pluplesky.jpg
+  3-boing-studio.jpg      <- bigball.jpg
+  4-boing-earth.jpg       <- earthball.jpg
+  5-boing-field.jpg       <- 2lotsgreyballs.jpg
+
+If these ever need to come down (e.g. a marketplace listing gets
+flagged), swap them for fully original, procedurally generated
+backgrounds instead of another third-party source. See the session
+that built this theme for the ImageMagick commands used to generate
+the original "wanderer-sky" (marbled blue/purple gradient) and
+"boing-orb" (abstract checker-sphere, not derived from any existing
+artwork) backgrounds.
